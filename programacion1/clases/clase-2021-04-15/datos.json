@@ -1,0 +1,62 @@
+{
+  "pelicula1": {
+    "nombre": "Mad Max",
+    "cine": "cinemark",
+    "entradas vendidas": "150"
+  },
+  "pelicula2": {
+    "nombre": "Maximo riesgo",
+    "cine": "cinepolis",
+    "entradas vendidas": "120"
+  },
+  "pelicula3": {
+    "nombre": "Maximo riesgo",
+    "cine": "cinemacenter",
+    "entradas vendidas": "135"
+  },
+  "pelicula4": {
+    "nombre": "Memoria letal",
+    "cine": "cinemacenter",
+    "entradas vendidas": "100"
+  },
+  "pelicula5": {
+    "nombre": "Memoria letal",
+    "cine": "cinemark",
+    "entradas vendidas": "112"
+  },
+  "pelicula6": {
+    "nombre": "Monster House",
+    "cine": "cinepolis",
+    "entradas vendidas": "131"
+  },
+  "pelicula7": {
+    "nombre": "Mortal Kombat",
+    "cine": "cinemacenter",
+    "entradas vendidas": "150"
+  },
+  "pelicula8": {
+    "nombre": "Monster House",
+    "cine": "cinemark",
+    "entradas vendidas": "110"
+  },
+  "pelicula9": {
+    "nombre": "Mortal Kombat",
+    "cine": "cinemark",
+    "entradas vendidas": "123"
+  },
+  "pelicula10": {
+    "nombre": "Mortal Kombat",
+    "cine": "cinepolis",
+    "entradas vendidas": "104"
+  },
+  "peliculas": "10",
+  "cine1": "cinepolis",
+  "cine2": "cinemark",
+  "cine3": "cinemacenter",
+  "cines": "3",
+  "pelicula11": {
+    "nombre": "Mortal Kombat",
+    "cine": "cinepolis",
+    "entradas vendidas": "104"
+  }
+}

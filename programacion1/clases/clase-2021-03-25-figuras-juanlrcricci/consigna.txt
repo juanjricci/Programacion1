@@ -1,0 +1,8 @@
+Crear un programa que manipula figuras geométricas.
+Tendremos una clase Contenedor la cual creará, almacenará y realizará operaciones sobre figuras geométricas (que se describen luego)
+1- crear 3 objetos de cada clase: Circulo, Rectangulo y Triangulo (equilatero). En total son 9 objetos.
+2- mostrar la información de los 9 objetos
+3- ordenar los objetos de acuerdo al perímetro de mayor a menor
+4- ordenar los objetos de acuerdo a la superficie de menor a mayor
+5- escalar los objetos 50% mas grandes
+6- mostrar la información de los 9 objetos

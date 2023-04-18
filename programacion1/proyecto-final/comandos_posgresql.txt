@@ -1,0 +1,19 @@
+(venv)
+instalar postgresql: 
+$ sudo apt-get install postgresql-12
+instalar drivers: 
+$ pip install psycopg2-binary
+
+entrar con el usuario default:
+$ sudo -u postgres -i
+correr postgres:
+# psql postgres
+
+crear db:
+# CREATE DATABASE nombre_db; 
+(siempre usar el ;)
+ver lista de databases: 
+# \l
+ver lista de usuarios:
+# \du
+

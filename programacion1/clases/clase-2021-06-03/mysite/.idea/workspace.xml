@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09014043-ac46-476c-84ea-3c3be07f28f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1tRQlseQnsNLnkdgGFLVMzIEhKL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09014043-ac46-476c-84ea-3c3be07f28f8" name="Default Changelist" comment="" />
+      <created>1622729575393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622729575393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="746" y="421" width="489" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1622729804910">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="746" y="421" width="489" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1848.1053@72.27.1848.1053" timestamp="1622729804910" />
+    <state x="779" y="270" width="424" height="574" key="FileChooserDialogImpl" timestamp="1622729722031">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="270" width="424" height="574" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1622729722031" />
+    <state x="581" y="300" width="819" height="514" key="NewModule_or_Project.wizard" timestamp="1622729729196">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="581" y="300" width="819" height="514" key="NewModule_or_Project.wizard/72.27.1848.1053@72.27.1848.1053" timestamp="1622729729196" />
+  </component>
+</project>
